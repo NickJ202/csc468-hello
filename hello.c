@@ -2,5 +2,5 @@
 
 int main() {
    printf("Hello, Spring 2022!!");
-   return 1
+   return 0;
 }
